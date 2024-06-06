@@ -1,6 +1,5 @@
-package may25;
+package Assignment;
 
-import java.time.Year;
 import java.util.Scanner;
 
 public class LeapYear {
